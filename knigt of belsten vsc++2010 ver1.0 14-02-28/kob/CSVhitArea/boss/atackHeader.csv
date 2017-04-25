@@ -1,0 +1,24 @@
+<pMax>,18
+/立ち姿勢,
+nodata,0
+nodata,1
+nodata,2
+/移動,
+nodata,3
+nodata,4
+nodata,5
+nodata,6
+/ダメージ,
+nodata,7
+nodata,8
+nodata,9
+/死亡,
+nodata,10
+nodata,11
+nodata,12
+nodata,13
+/攻撃　ここから別シート,
+nodata,14
+nodata,15
+CSVhitArea/player/atackArea2.csv,16
+nodata,17

@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="2DGraph">
+      <UniqueIdentifier>{f6676222-994a-46e3-85aa-598d647e35e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="file">
+      <UniqueIdentifier>{a9834c99-ea7c-4a85-bb0b-f7d9305f13ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="hitArea">
+      <UniqueIdentifier>{56fb9fa5-9cc4-4fc6-88ed-1acc47a3726d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Input">
+      <UniqueIdentifier>{1d677758-0c11-4774-82cf-e1f7605e51c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="random">
+      <UniqueIdentifier>{57fd19a5-c002-4242-a465-dd51e468b517}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameObject">
+      <UniqueIdentifier>{56d536f8-47a0-470a-9df5-6203680a67c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameObject\actor">
+      <UniqueIdentifier>{7fb5af32-30d3-4b7f-8ebf-cf5a499c0d40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameObject\ai">
+      <UniqueIdentifier>{44374e25-c65e-4f98-ba48-c3072290ea51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameObject\interface">
+      <UniqueIdentifier>{a2b07fa0-36a4-4e33-99ce-0f5a3c00d599}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameObject\map">
+      <UniqueIdentifier>{03ea42df-1f9e-4ea8-a76f-1a3a2058ea3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sound">
+      <UniqueIdentifier>{349b34f6-90ad-4b07-b4c1-ef75a2981014}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2DGraph\2DGraphForDxLib.cpp">
+      <Filter>2DGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="2DGraph\Draw2DForDxLib.cpp">
+      <Filter>2DGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="hitArea\hitArea.cpp">
+      <Filter>hitArea</Filter>
+    </ClCompile>
+    <ClCompile Include="hitArea\hitAreaSet.cpp">
+      <Filter>hitArea</Filter>
+    </ClCompile>
+    <ClCompile Include="Input\InputForDxLib.cpp">
+      <Filter>Input</Filter>
+    </ClCompile>
+    <ClCompile Include="random\random.cpp">
+      <Filter>random</Filter>
+    </ClCompile>
+    <ClCompile Include="log.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="gameObject\actor\actor.cpp">
+      <Filter>gameObject\actor</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject\actor\actorData.cpp">
+      <Filter>gameObject\actor</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject\actor\enemy.cpp">
+      <Filter>gameObject\actor</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject\actor\player.cpp">
+      <Filter>gameObject\actor</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject\ai\ai.cpp">
+      <Filter>gameObject\ai</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject\interface\interface.cpp">
+      <Filter>gameObject\interface</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject\map\map.cpp">
+      <Filter>gameObject\map</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject\baseObject.cpp">
+      <Filter>gameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject\gameState.cpp">
+      <Filter>gameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="file\File.cpp">
+      <Filter>file</Filter>
+    </ClCompile>
+    <ClCompile Include="file\TexRead.cpp">
+      <Filter>file</Filter>
+    </ClCompile>
+    <ClCompile Include="sound\soundForDxLib.cpp">
+      <Filter>sound</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="2DGraph\2DGraphForDxLib.h">
+      <Filter>2DGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="2DGraph\Draw2DForDxLib.h">
+      <Filter>2DGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="hitArea\hitArea.h">
+      <Filter>hitArea</Filter>
+    </ClInclude>
+    <ClInclude Include="hitArea\hitAreaSet.h">
+      <Filter>hitArea</Filter>
+    </ClInclude>
+    <ClInclude Include="Input\InputForDxLib.h">
+      <Filter>Input</Filter>
+    </ClInclude>
+    <ClInclude Include="random\random.h">
+      <Filter>random</Filter>
+    </ClInclude>
+    <ClInclude Include="defines.h" />
+    <ClInclude Include="log.h" />
+    <ClInclude Include="gameObject\actor\actor.h">
+      <Filter>gameObject\actor</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObject\actor\actorData.h">
+      <Filter>gameObject\actor</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObject\actor\enemy.h">
+      <Filter>gameObject\actor</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObject\actor\player.h">
+      <Filter>gameObject\actor</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObject\ai\ai.h">
+      <Filter>gameObject\ai</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObject\interface\interface.h">
+      <Filter>gameObject\interface</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObject\map\map.h">
+      <Filter>gameObject\map</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObject\baseObject.h">
+      <Filter>gameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObject\gameState.h">
+      <Filter>gameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="file\File.h">
+      <Filter>file</Filter>
+    </ClInclude>
+    <ClInclude Include="file\TexRead.h">
+      <Filter>file</Filter>
+    </ClInclude>
+    <ClInclude Include="sound\soundForDxLib.h">
+      <Filter>sound</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

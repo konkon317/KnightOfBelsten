@@ -1,0 +1,6 @@
+<max>,4
+<path>,
+csvActorData/player.csv,
+csvActorData/enemy.csv,
+csvActorData/enemy1.csv,
+csvActorData/boss.csv,

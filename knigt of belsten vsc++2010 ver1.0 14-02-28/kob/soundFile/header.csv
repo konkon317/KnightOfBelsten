@@ -1,0 +1,8 @@
+<max>,7,/
+soundFile/playerDamage.wav,playerDamage,
+soundFile/enemyDamage.wav,enemyDamage,
+soundFile/attack.wav,attack,
+soundFile/gameBgm.wav,gameBgm,
+soundFile/bossBgm.wav,bossBgm,
+soundFile/clear.wav,gameClear,
+soundFile/over.wav,gameOver,

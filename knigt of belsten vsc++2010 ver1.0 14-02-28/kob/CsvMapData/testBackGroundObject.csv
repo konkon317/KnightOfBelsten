@@ -1,0 +1,11 @@
+<max>,9,/
+/path,name,
+images/backGround/backGroundObject/wall.png,wall,
+images/backGround/backGroundObject/wallBossRoom.png,wallBossRoom,
+images/backGround/backGroundObject/tree.png,tree,
+images/backGround/backGroundObject/tree2.png,tree2,
+images/backGround/backGroundObject/tree3.png,tree3,
+images/backGround/backGroundObject/tree4.png,tree4,
+images/background/backGroundObject/gateBack.png,gateBack,
+images/background/backGroundObject/grass.png,grass1,
+images/background/backGroundObject/grass2.png,grass2,

@@ -1,0 +1,24 @@
+<pMax>,18
+/立ち姿勢,
+CSVhitArea/player/player0.csv,0
+CSVhitArea/player/player0.csv,1
+CSVhitArea/player/player0.csv,2
+/移動,
+CSVhitArea/player/player0.csv,3
+CSVhitArea/player/player0.csv,4
+CSVhitArea/player/player0.csv,5
+CSVhitArea/player/player0.csv,6
+/ダメージ,
+nodata,7
+nodata,8
+nodata,9
+/死亡,
+nodata,10
+nodata,11
+nodata,12
+nodata,13
+/攻撃　ここから別シート,
+CSVhitArea/player/player0.csv,20
+CSVhitArea/player/player0.csv,21
+CSVhitArea/player/player0.csv,22
+CSVhitArea/player/player0.csv,

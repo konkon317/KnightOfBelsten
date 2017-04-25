@@ -1,0 +1,752 @@
+TexRead コンストラクタ soundFile/header.csv
+file コンストラクタ soundFile/header.csv read false 
+file デストラクタ soundFile/header.csv
+TexRead デストラクタ soundFile/header.csv
+TexRead コンストラクタ CsvMapData/testRoad.csv
+file コンストラクタ CsvMapData/testRoad.csv read true 
+file デストラクタ CsvMapData/testRoad.csv
+TexRead デストラクタ CsvMapData/testRoad.csv
+TexRead コンストラクタ CsvMapData/setRoadData.csv
+file コンストラクタ CsvMapData/setRoadData.csv read true 
+file デストラクタ CsvMapData/setRoadData.csv
+TexRead デストラクタ CsvMapData/setRoadData.csv
+TexRead コンストラクタ CsvMapData/testBackGroundObject.csv
+file コンストラクタ CsvMapData/testBackGroundObject.csv read true 
+file デストラクタ CsvMapData/testBackGroundObject.csv
+TexRead デストラクタ CsvMapData/testBackGroundObject.csv
+TexRead コンストラクタ CsvMapData/setBackGroundObjectData.csv
+file コンストラクタ CsvMapData/setBackGroundObjectData.csv read true 
+file デストラクタ CsvMapData/setBackGroundObjectData.csv
+TexRead デストラクタ CsvMapData/setBackGroundObjectData.csv
+TexRead コンストラクタ CsvMapData/testFrontObject.csv
+file コンストラクタ CsvMapData/testFrontObject.csv read true 
+file デストラクタ CsvMapData/testFrontObject.csv
+TexRead デストラクタ CsvMapData/testFrontObject.csv
+TexRead コンストラクタ CsvMapData/setFrontObjectData.csv
+file コンストラクタ CsvMapData/setFrontObjectData.csv read true 
+file デストラクタ CsvMapData/setFrontObjectData.csv
+TexRead デストラクタ CsvMapData/setFrontObjectData.csv
+TexRead コンストラクタ CSVActorData/actorDataHeader.csv
+file コンストラクタ CSVActorData/actorDataHeader.csv read true 
+hitAreaSet コンストラクタ
+hitAreaSet コンストラクタ
+TexRead コンストラクタ csvActorData/player.csv
+file コンストラクタ csvActorData/player.csv read true 
+hitAreaSet initialize CSVhitArea/player/header.csv
+TexRead コンストラクタ CSVhitArea/player/header.csv
+file コンストラクタ CSVhitArea/player/header.csv read true 
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+file デストラクタ CSVhitArea/player/header.csv
+TexRead デストラクタ CSVhitArea/player/header.csv
+hitAreaSet initialize CSVhitArea/player/atackHeader.csv
+TexRead コンストラクタ CSVhitArea/player/atackHeader.csv
+file コンストラクタ CSVhitArea/player/atackHeader.csv read true 
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/atackArea2.csv
+file コンストラクタ CSVhitArea/player/atackArea2.csv read true 
+file デストラクタ CSVhitArea/player/atackArea2.csv
+TexRead デストラクタ CSVhitArea/player/atackArea2.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/atackArea3.csv
+file コンストラクタ CSVhitArea/player/atackArea3.csv read true 
+file デストラクタ CSVhitArea/player/atackArea3.csv
+TexRead デストラクタ CSVhitArea/player/atackArea3.csv
+file デストラクタ CSVhitArea/player/atackHeader.csv
+TexRead デストラクタ CSVhitArea/player/atackHeader.csv
+hitAreaSet showCSVhitArea/player/atackHeader.csv
+max :23
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+CSVhitArea/player/atackArea2.csv
+max :11
+0 :113,-98,36
+1 :76,-99,36
+2 :62,-138,24
+3 :98,-138,10
+4 :110,-130,10
+5 :87,-145,10
+6 :24,-176,10
+7 :37,-171,10
+8 :47,-168,10
+9 :57,-162,10
+10 :38,-159,10
+CSVhitArea/player/atackArea3.csv
+max :2
+0 :113,-98,36
+1 :76,-99,36
+none
+max :0
+none
+max :0
+file デストラクタ csvActorData/player.csv
+TexRead デストラクタ csvActorData/player.csv
+hitAreaSet コンストラクタ
+hitAreaSet コンストラクタ
+TexRead コンストラクタ csvActorData/enemy.csv
+file コンストラクタ csvActorData/enemy.csv read true 
+hitAreaSet initialize CSVhitArea/enemy0/header.csv
+TexRead コンストラクタ CSVhitArea/enemy0/header.csv
+file コンストラクタ CSVhitArea/enemy0/header.csv read true 
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/stand0.csv
+file コンストラクタ CSVhitArea/enemy0/stand0.csv read true 
+file デストラクタ CSVhitArea/enemy0/stand0.csv
+TexRead デストラクタ CSVhitArea/enemy0/stand0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/stand1.csv
+file コンストラクタ CSVhitArea/enemy0/stand1.csv read true 
+file デストラクタ CSVhitArea/enemy0/stand1.csv
+TexRead デストラクタ CSVhitArea/enemy0/stand1.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/stand2.csv
+file コンストラクタ CSVhitArea/enemy0/stand2.csv read true 
+file デストラクタ CSVhitArea/enemy0/stand2.csv
+TexRead デストラクタ CSVhitArea/enemy0/stand2.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/move0.csv
+file コンストラクタ CSVhitArea/enemy0/move0.csv read true 
+file デストラクタ CSVhitArea/enemy0/move0.csv
+TexRead デストラクタ CSVhitArea/enemy0/move0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/move1.csv
+file コンストラクタ CSVhitArea/enemy0/move1.csv read true 
+file デストラクタ CSVhitArea/enemy0/move1.csv
+TexRead デストラクタ CSVhitArea/enemy0/move1.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/move2.csv
+file コンストラクタ CSVhitArea/enemy0/move2.csv read true 
+file デストラクタ CSVhitArea/enemy0/move2.csv
+TexRead デストラクタ CSVhitArea/enemy0/move2.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/move3.csv
+file コンストラクタ CSVhitArea/enemy0/move3.csv read true 
+file デストラクタ CSVhitArea/enemy0/move3.csv
+TexRead デストラクタ CSVhitArea/enemy0/move3.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/move4.csv
+file コンストラクタ CSVhitArea/enemy0/move4.csv read true 
+file デストラクタ CSVhitArea/enemy0/move4.csv
+TexRead デストラクタ CSVhitArea/enemy0/move4.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/move5.csv
+file コンストラクタ CSVhitArea/enemy0/move5.csv read true 
+file デストラクタ CSVhitArea/enemy0/move5.csv
+TexRead デストラクタ CSVhitArea/enemy0/move5.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/move6.csv
+file コンストラクタ CSVhitArea/enemy0/move6.csv read true 
+file デストラクタ CSVhitArea/enemy0/move6.csv
+TexRead デストラクタ CSVhitArea/enemy0/move6.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/attack0.csv
+file コンストラクタ CSVhitArea/enemy0/attack0.csv read true 
+file デストラクタ CSVhitArea/enemy0/attack0.csv
+TexRead デストラクタ CSVhitArea/enemy0/attack0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/attack1.csv
+file コンストラクタ CSVhitArea/enemy0/attack1.csv read true 
+file デストラクタ CSVhitArea/enemy0/attack1.csv
+TexRead デストラクタ CSVhitArea/enemy0/attack1.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/attack2.csv
+file コンストラクタ CSVhitArea/enemy0/attack2.csv read true 
+file デストラクタ CSVhitArea/enemy0/attack2.csv
+TexRead デストラクタ CSVhitArea/enemy0/attack2.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/attack3.csv
+file コンストラクタ CSVhitArea/enemy0/attack3.csv read true 
+file デストラクタ CSVhitArea/enemy0/attack3.csv
+TexRead デストラクタ CSVhitArea/enemy0/attack3.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/attack4.csv
+file コンストラクタ CSVhitArea/enemy0/attack4.csv read true 
+file デストラクタ CSVhitArea/enemy0/attack4.csv
+TexRead デストラクタ CSVhitArea/enemy0/attack4.csv
+file デストラクタ CSVhitArea/enemy0/header.csv
+TexRead デストラクタ CSVhitArea/enemy0/header.csv
+hitAreaSet initialize CSVhitArea/enemy0/attackHeader.csv
+TexRead コンストラクタ CSVhitArea/enemy0/attackHeader.csv
+file コンストラクタ CSVhitArea/enemy0/attackHeader.csv read true 
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/enemy0/attackArea3.csv
+file コンストラクタ CSVhitArea/enemy0/attackArea3.csv read true 
+file デストラクタ CSVhitArea/enemy0/attackArea3.csv
+TexRead デストラクタ CSVhitArea/enemy0/attackArea3.csv
+file デストラクタ CSVhitArea/enemy0/attackHeader.csv
+TexRead デストラクタ CSVhitArea/enemy0/attackHeader.csv
+hitAreaSet showCSVhitArea/enemy0/attackHeader.csv
+max :21
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+CSVhitArea/enemy0/attackArea3.csv
+max :9
+0 :73,-78,5
+1 :78,-88,5
+2 :84,-98,5
+3 :85,-110,5
+4 :81,-124,5
+5 :77,-82,5
+6 :82,-93,5
+7 :86,-104,5
+8 :84,-117,5
+none
+max :0
+file デストラクタ csvActorData/enemy.csv
+TexRead デストラクタ csvActorData/enemy.csv
+hitAreaSet コンストラクタ
+hitAreaSet コンストラクタ
+TexRead コンストラクタ csvActorData/enemy1.csv
+file コンストラクタ csvActorData/enemy1.csv read true 
+hitAreaSet initialize CSVhitArea/player/header.csv
+TexRead コンストラクタ CSVhitArea/player/header.csv
+file コンストラクタ CSVhitArea/player/header.csv read true 
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+file デストラクタ CSVhitArea/player/header.csv
+TexRead デストラクタ CSVhitArea/player/header.csv
+hitAreaSet initialize CSVhitArea/player/atackHeader.csv
+TexRead コンストラクタ CSVhitArea/player/atackHeader.csv
+file コンストラクタ CSVhitArea/player/atackHeader.csv read true 
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/atackArea2.csv
+file コンストラクタ CSVhitArea/player/atackArea2.csv read true 
+file デストラクタ CSVhitArea/player/atackArea2.csv
+TexRead デストラクタ CSVhitArea/player/atackArea2.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/atackArea3.csv
+file コンストラクタ CSVhitArea/player/atackArea3.csv read true 
+file デストラクタ CSVhitArea/player/atackArea3.csv
+TexRead デストラクタ CSVhitArea/player/atackArea3.csv
+file デストラクタ CSVhitArea/player/atackHeader.csv
+TexRead デストラクタ CSVhitArea/player/atackHeader.csv
+hitAreaSet showCSVhitArea/player/atackHeader.csv
+max :23
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+CSVhitArea/player/atackArea2.csv
+max :11
+0 :113,-98,36
+1 :76,-99,36
+2 :62,-138,24
+3 :98,-138,10
+4 :110,-130,10
+5 :87,-145,10
+6 :24,-176,10
+7 :37,-171,10
+8 :47,-168,10
+9 :57,-162,10
+10 :38,-159,10
+CSVhitArea/player/atackArea3.csv
+max :2
+0 :113,-98,36
+1 :76,-99,36
+none
+max :0
+none
+max :0
+file デストラクタ csvActorData/enemy1.csv
+TexRead デストラクタ csvActorData/enemy1.csv
+hitAreaSet コンストラクタ
+hitAreaSet コンストラクタ
+TexRead コンストラクタ csvActorData/boss.csv
+file コンストラクタ csvActorData/boss.csv read true 
+hitAreaSet initialize CSVhitArea/boss/header.csv
+TexRead コンストラクタ CSVhitArea/boss/header.csv
+file コンストラクタ CSVhitArea/boss/header.csv read true 
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/player0.csv
+file コンストラクタ CSVhitArea/player/player0.csv read true 
+file デストラクタ CSVhitArea/player/player0.csv
+TexRead デストラクタ CSVhitArea/player/player0.csv
+file デストラクタ CSVhitArea/boss/header.csv
+TexRead デストラクタ CSVhitArea/boss/header.csv
+hitAreaSet initialize CSVhitArea/boss/atackHeader.csv
+TexRead コンストラクタ CSVhitArea/boss/atackHeader.csv
+file コンストラクタ CSVhitArea/boss/atackHeader.csv read true 
+
+hitArea initialize
+TexRead コンストラクタ CSVhitArea/player/atackArea2.csv
+file コンストラクタ CSVhitArea/player/atackArea2.csv read true 
+file デストラクタ CSVhitArea/player/atackArea2.csv
+TexRead デストラクタ CSVhitArea/player/atackArea2.csv
+file デストラクタ CSVhitArea/boss/atackHeader.csv
+TexRead デストラクタ CSVhitArea/boss/atackHeader.csv
+hitAreaSet showCSVhitArea/boss/atackHeader.csv
+max :18
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+none
+max :0
+CSVhitArea/player/atackArea2.csv
+max :11
+0 :113,-98,36
+1 :76,-99,36
+2 :62,-138,24
+3 :98,-138,10
+4 :110,-130,10
+5 :87,-145,10
+6 :24,-176,10
+7 :37,-171,10
+8 :47,-168,10
+9 :57,-162,10
+10 :38,-159,10
+none
+max :0
+file デストラクタ csvActorData/boss.csv
+TexRead デストラクタ csvActorData/boss.csv
+file デストラクタ CSVActorData/actorDataHeader.csv
+TexRead デストラクタ CSVActorData/actorDataHeader.csv
+TexRead コンストラクタ test.csv
+file コンストラクタ test.csv read true 
+file デストラクタ test.csv
+TexRead デストラクタ test.csv
+hitAreaSet デストラクタ CSVhitArea/enemy0/attackHeader.csv
+hitAreaSet デストラクタ nodata
+hitAreaSet デストラクタ CSVhitArea/player/atackHeader.csv
+hitAreaSet デストラクタ nodata
+hitAreaSet デストラクタ CSVhitArea/boss/atackHeader.csv
+hitAreaSet デストラクタ nodata
+hitAreaSet デストラクタ CSVhitArea/player/atackHeader.csv
+hitAreaSet デストラクタ nodata
